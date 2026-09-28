@@ -1,63 +1,179 @@
 <div align="center">
 
-  # Hello, I'm Stephen 👋
+# Stephen Kamau
 
-  ### 🚀 Creative Technologist | Full-Stack Engineer | AI Enthusiast
+### AI Evaluation & Data Specialist · Software Engineer
 
-  <p align="center">
-    <b>Building robust architectures at the intersection of Mobile, Web, and Emerging AI.</b><br>
-    I specialize in adhering to strict protocols (RFCs) while delivering fluid, high-performance user experiences.
-  </p>
+**LLM Evaluation · Multimodal AI · Computer Vision · CUA · Automation**
 
-  [![](https://visitcount.itsvg.in/api?id=fskamau&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/fskamau)
+I evaluate AI systems, build high-quality training data, and develop automation tools for complex data workflows.
+
+[Portfolio](https://fskamau.vercel.app) · [LinkedIn](https://www.linkedin.com/in/stephen-kamau-49308a3a0/) · [Email](mailto:kamstefin@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-I am a developer who believes that **software should be as reliable as it is innovative.** My background spans from the low-level precision of **Linux** environments and **RFC protocol implementation** to the high-level creativity of **Flutter** and **Modern Web Development**.
+I work at the intersection of **AI evaluation, training data, computer vision, and software engineering**.
 
-Currently, I am expanding into **Artificial Intelligence**, focusing on how structured data (JSON) and human-in-the-loop workflows power the next generation of LLMs and autonomous agents.
+My work includes evaluating LLM and multimodal outputs, reviewing computer-use agent trajectories, comparing model responses, validating structured datasets, and performing image and video annotation for computer vision systems.
 
-- 🔭 **I’m currently working on:** Building scalable **Flutter** applications and refining **Multimodal Data Pipelines** for AI training.
-- 🌱 **I’m currently exploring:** **Edge AI** integration on mobile devices and optimizing **RFC-compliant** data exchange layers.
-- 👯 **I’m looking to collaborate on:** Open-source tools that improve developer workflows on **Ubuntu** or innovative **Android** projects.
-- 💬 **Ask me about:** Why strict **JSON** schemas matter, the future of **Cross-Platform Dev**, and optimizing **Linux** for heavy lifting.
+I also build software and automation around data-intensive workflows. My engineering stack includes **Python, C, JavaScript, TypeScript, Node.js, SQL, MongoDB, Linux, and REST APIs**, with experience developing browser automation, scrapers, bots, data-processing utilities, and validation tools.
 
----
-
-### 🛠️ The Arsenal
-
-| **Core Stack** | **Emerging Tech & AI** | **System & Protocols** |
-| :--- | :--- | :--- |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Data](https://img.shields.io/badge/Data_Annotation-black?style=for-the-badge) | ![JSON](https://img.shields.io/badge/JSON_&_RFCs-000000?style=for-the-badge&logo=json&logoColor=white) |
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+The common thread across my work is **AI data quality**: identifying errors, enforcing evaluation criteria, validating outputs, and building tools that make complex workflows more reliable and repeatable.
 
 ---
 
-### 📈 GitHub Stats
+## Areas of Expertise
+
+### AI Evaluation & Training Data
+
+`LLM Evaluation` `Generative AI` `Multimodal Evaluation` `SxS Evaluation` `CUA Evaluation` `AI Training Data` `Data Annotation` `Quality Assurance`
+
+Evaluation of model outputs for factuality, instruction following, completeness, grounding, tool use, task completion, and overall response quality.
+
+### Computer Vision
+
+`CVAT` `Computer Vision Annotation` `Video Object Tracking` `Image Annotation` `Video Annotation` `Bounding Boxes` `Segmentation` `Visual QA`
+
+Annotation and quality evaluation of visual datasets, including object tracking across video sequences and structured annotation workflows.
+
+### Automation & Data Engineering
+
+`Puppeteer` `Web Scraping` `Browser Automation` `REST APIs` `Telegram API` `Postman` `ETL`
+
+Development of repeatable workflows for data collection, processing, validation, transformation, and API-driven automation.
+
+---
+
+## Engineering Stack
+
+**Languages**
+
+`Python` `C` `JavaScript` `TypeScript` `SQL` `Dart`
+
+**Backend & Automation**
+
+`Node.js` `Puppeteer` `REST APIs` `Web Scraping` `Browser Automation` `Telegram API`
+
+**Data**
+
+`MongoDB` `SQLite` `JSON` `CSV` `ETL`
+
+**AI & Computer Vision**
+
+`LLM Evaluation` `Multimodal AI` `CVAT` `Video Object Tracking` `Data Annotation` `Dataset QA`
+
+**Systems & Development**
+
+`Linux` `Bash` `Git` `GitHub` `Docker` `Postman`
+
+**Additional Tools**
+
+`Flutter` `Inkscape`
+
+---
+
+## Selected Work
+
+### Multimodal AI Evaluation Toolkit
+
+A Python-based evaluation framework for benchmarking LLM and multimodal AI outputs across factuality, instruction following, completeness, grounding, tool use, and response quality.
+
+The project includes structured evaluation schemas, pairwise response comparison, error classification, scoring utilities, and evaluation reporting.
+
+**Stack:** `Python` `JSON` `AI Evaluation` `Multimodal AI`
+
+**Status:** In development
+
+---
+
+### SVD
+
+A Python-based media downloading utility focused on practical automation and streamlined media-processing workflows.
+
+**Stack:** `Python` `Automation`
+
+[View Repository](https://github.com/fskamau/svd)
+
+---
+
+### SVD Browser Extension
+
+A browser extension extending media workflow functionality directly into the browser.
+
+**Stack:** `JavaScript` `Browser APIs` `Automation`
+
+[View Repository](https://github.com/fskamau/svd-extension)
+
+---
+
+### BSP
+
+A C project exploring binary space partitioning and low-level graphical programming.
+
+**Stack:** `C` `raylib` `Algorithms`
+
+[View Repository](https://github.com/fskamau/bsp)
+
+---
+
+## Building Next
+
+### Computer Vision Annotation & Video Object Tracking
+
+A reproducible CVAT-based project demonstrating object tracking, track continuity, occlusion handling, annotation QA, structured exports, and visualization of tracked objects.
+
+`CVAT` `Python` `OpenCV` `Computer Vision`
+
+### Annotation QA Toolkit
+
+A Python toolkit for detecting malformed annotations, invalid bounding boxes, missing labels, duplicate annotations, class inconsistencies, and dataset anomalies.
+
+`Python` `Computer Vision` `COCO` `YOLO` `Data Quality`
+
+### Browser Automation & Data Pipeline
+
+A TypeScript and Node.js pipeline for automated browser interaction, structured data extraction, validation, normalization, storage, and reporting.
+
+`TypeScript` `Node.js` `Puppeteer` `MongoDB`
+
+---
+
+## Current Focus
+
+I am currently developing open-source projects around **AI evaluation infrastructure, multimodal data quality, computer vision annotation, and workflow automation**.
+
+My current work focuses on:
+
+- Structured LLM and multimodal evaluation
+- Pairwise and side-by-side model comparison
+- Computer-use agent evaluation
+- Evaluation error taxonomies
+- Computer vision annotation quality
+- Video Object Tracking
+- Dataset validation and QA
+- Browser and API automation
+- Python-based data tooling
+
+---
+
+## Professional Interests
+
+I am interested in engineering and data roles involving:
+
+`AI Evaluation` · `LLM Training` · `AI Data Quality` · `Computer Vision` · `Multimodal AI` · `CUA Evaluation` · `Data Annotation` · `Automation` · `Python Development`
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fskamau&show_icons=true&theme=radical&hide_border=true" height="160" alt="Stephen's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fskamau&layout=compact&theme=radical&hide_border=true" height="160" alt="Stephen's Top Languages" />
-</div>
 
----
+## Contact
 
-<div align="center">
-  Connect with me:
-  <br>
-  <a href="https://www.linkedin.com/in/stephen-kamau-49308a3a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kamstefin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://fskamau.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
-  </a>
+[LinkedIn](https://www.linkedin.com/in/stephen-kamau-49308a3a0/) · [Portfolio](https://fskamau.vercel.app) · [Email](mailto:kamstefin@gmail.com)
+
+**AI Evaluation · Computer Vision · Automation · Software Engineering**
+
 </div>
