@@ -1,14 +1,11 @@
 <div align="center">
 
-# Stephen Kamau
-
 ### AI Evaluation & Data Specialist · Software Engineer
 
 **LLM Evaluation · Multimodal AI · Computer Vision · CUA · Automation**
 
 I evaluate AI systems, build high-quality training data, and develop automation tools for complex data workflows.
 
-[Portfolio](https://fskamau.vercel.app) · [LinkedIn](https://www.linkedin.com/in/stephen-kamau-49308a3a0/) · [Email](mailto:kamstefin@gmail.com)
 
 </div>
 
@@ -169,10 +166,6 @@ I am interested in engineering and data roles involving:
 ---
 
 <div align="center">
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/stephen-kamau-49308a3a0/) · [Portfolio](https://fskamau.vercel.app) · [Email](mailto:kamstefin@gmail.com)
 
 **AI Evaluation · Computer Vision · Automation · Software Engineering**
 
